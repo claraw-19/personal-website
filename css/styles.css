@@ -2,3 +2,14 @@
   font-family: "Courier New", Courier, monospace;
   background-color: antiquewhite;
 }
+
+h1 {
+  text-align: center;
+}
+
+.centering-image {
+  display: block; /* Bild als Block-Element */
+  margin-left: auto; /* Automatischer linker Rand */
+  margin-right: auto; /* Automatischer rechter Rand */
+  width: 200px; /* Bildbreite */
+}
