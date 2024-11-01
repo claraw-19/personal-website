@@ -8,8 +8,7 @@ h1 {
 }
 
 .centering-image {
-  display: block; /* Bild als Block-Element */
-  margin-left: auto; /* Automatischer linker Rand */
-  margin-right: auto; /* Automatischer rechter Rand */
-  width: 200px; /* Bildbreite */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
